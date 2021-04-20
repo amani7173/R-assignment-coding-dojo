@@ -1,0 +1,14 @@
+#assignment 1
+sample3 <-rolling (rool) 
+  rool<-sample(1:10 , 6 , TRUE); rool
+  sum(rool)
+#optional 
+  count <- 0
+     for (val in rool) {
+    if(val >6 ) 
+      count = count+1
+  }
+  print(count)
+  
+
+
